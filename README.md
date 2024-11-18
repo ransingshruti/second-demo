@@ -1,2 +1,2 @@
 # second-demo
-This is a demo for Practice
+This is a demo for Practice.
